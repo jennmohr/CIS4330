@@ -6,3 +6,4 @@ Some main points I learned from the article were:
 * Advantages of microservices are agility, risk reduction, distributed development, flexibility, scalability & resiliency.
 * Risks are possible poor application performance, significantly different architecture, requiring new application infrastructure & disappointing results. 
 * Costs are technical changes, cultural changes, agile and DevOps competency, changes in data management, product mindset, team autonomy & complex application infrastructure. 
+* Microservices are great for growing/large companies, but not too great for smaller ones.
