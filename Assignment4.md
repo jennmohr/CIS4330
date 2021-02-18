@@ -12,6 +12,7 @@
 - They do not require an entire OS, therefore are very lightweight. 
   - The system allocates disk space as needed.
 
+![alt text](https://blog.netapp.com/wp-content/uploads/2016/03/Screen-Shot-2018-03-20-at-9.24.09-AM.png)
 
 #### Advantages of Physical Machines
 - Physical machines have their own CPU, RAM, etc. therefore can run multiple tasks a lot faster.
