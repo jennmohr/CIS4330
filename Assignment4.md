@@ -1,5 +1,5 @@
 #### Advantages of Virtual Machines
-- VMs are more efficient and contain reduced stranded capacity.
+- VMs are more efficient in their indivudal functions and contain reduced stranded capacity.
   - VMs are created with the right amount of space for their requirements.
 - Multiple servers on one machine affect the performance of one another. Problems in the servers are isolated.
 - VMs can be created and destroyed easily, even with programmable APIs to create an destroy VMs at a large scale.
