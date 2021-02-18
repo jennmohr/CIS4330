@@ -15,5 +15,6 @@
 
 #### Advantages of Physical Machines
 - Physical machines have their own CPU, RAM, etc. therefore can run multiple tasks a lot faster.
-- 
+- A physical machine has more secure environment.
+  - "The chances of experiencing a data breach while using virtualization is 1 in 4."
 #### How Cloud Aids Microservices
