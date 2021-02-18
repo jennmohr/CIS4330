@@ -17,4 +17,9 @@
 - Physical machines have their own CPU, RAM, etc. therefore can run multiple tasks a lot faster.
 - A physical machine has more secure environment.
   - "The chances of experiencing a data breach while using virtualization is 1 in 4."
+ 
 #### How Cloud Aids Microservices
+One way that cloud computing can help microservices is allowing microservice code to be updated at anytime. Several teams can work on different functions and modules in order to ensure that the system can be deployed as quickly as possible. Because of how easily deployable microservices are, they can be easily deployed on the cloud in order to continuously integrate solutions. Deploying microservices on the cloud also allows for applications to be easily scaled, since physical resources aren't required. Cloud services can easily determine what resources the microservice needs and exactly how much it costs for it to be maintained. 
+
+Because of all of the other functions typically supported by cloud computing technologies, there are many resources that microservices can take advantage of. Nowadays, services like AWS and Azure have direct support for all of the storage, networking, and computing a microservice would have to perform. Like the microservice itself, the storage and databases are easily scalable and durable. The networking services are also extremely fast, allowing for efficient microservices. This makes cloud computing and microservices extremely compatible. 
+
