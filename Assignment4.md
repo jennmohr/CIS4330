@@ -24,3 +24,4 @@ One way that cloud computing can help microservices is allowing microservice cod
 
 Because of all of the other functions typically supported by cloud computing technologies, there are many resources that microservices can take advantage of. Nowadays, services like AWS and Azure have direct support for all of the storage, networking, and computing a microservice would have to perform. Like the microservice itself, the storage and databases are easily scalable and durable. The networking services are also extremely fast, allowing for efficient microservices. This makes cloud computing and microservices extremely compatible. 
 
+![alt_text](https://3ovyg21t17l11k49tk1oma21-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/An-example-microservices-deployment-on-AWS.png)
