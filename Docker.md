@@ -12,9 +12,11 @@ After running the command given on the command prompt, it pulled the getting-sta
 
 We then clicked on the button to run the applicaiton in the browser, which launched a window with the pulled HTML code, containing a tutorial on how to use Docker.
 
-After exploring hub.docker.com, we noticed that there was a simple "Hello-World" image that could be pulled and run on our machines. We ran the "docker pull hello-world" command, and the image was cloned onto our machine. After it was pulled, we ran the "docker run hello-world" command, which displayed a message from Docker explaining that the installation worked correctly and gives an explanation on what occured on the application to generate the message. 
+After exploring hub.docker.com, we noticed that there was a simple "Hello-World" image that could be pulled and run on our machines. We ran the "docker pull hello-world" command, and the image was cloned onto our machine. After it was pulled, we ran the "docker run hello-world" command, which displayed a message from Docker explaining that the installation worked correctly and gives an explanation on what occured on the application to generate the message. This image also appeared on the Docker Desktop application. 
 
   ![image](https://user-images.githubusercontent.com/45910317/110024740-77e48580-7cfc-11eb-94cf-64c1026be713.png)
 
 #### What is going on with Docker vs. on our computer?
+By using a Docker, the image is being run on the Docker application so that the applications remain seperate from my machine. Docker packages and runs an application in a container. These containers have everything needed to run the application, and doesn't need to rely on the host's system. Docker uses a client-server architeture, which can both either run on the same machine or the client can connect remotely to the server. They communicate using a REST API.
 
+The computer you're using handles running Docker, and Docker handles running the application in the container. 
